@@ -16,7 +16,7 @@ position: absolute;
 }
 
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
-#kitty 5{
+#kitty {
   position: absolute;
   z-index: 5;
   top: 291px;
